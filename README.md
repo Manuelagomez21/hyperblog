@@ -15,3 +15,4 @@ En este curso vemos de todo:
 * Disponible para todas las edades
 Y como un amable recordatorio **este readme.md es un chiste** diseñado para un ejemplo.
 en este readme vas a aprender todo acerca de git 
+y luego aprenderas GitHub
