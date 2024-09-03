@@ -14,3 +14,4 @@ En este curso vemos de todo:
 * Incluye ejemplos en windows, Linux y Mac
 * Disponible para todas las edades
 Y como un amable recordatorio **este readme.md es un chiste** diseñado para un ejemplo.
+en este readme vas a aprender todo acerca de git 
